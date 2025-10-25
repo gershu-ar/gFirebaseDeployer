@@ -1,6 +1,6 @@
 # IF YOU'RE READING THIS, THEN I'M STILL WORKING IN PUBLISHING THE FILES
-# GITHUB IS MALFUNCTIONING AND I CANNOT PUT THIS PRIVATE.
-# Give me an hour or so and it will all be here.
+## GITHUB IS MALFUNCTIONING AND I CANNOT PUT THIS TO PRIVATE.
+### Give me an hour or so and it will all be here.
 
 ------
 
@@ -22,11 +22,10 @@
 
 ---
 
-# gFirebaseDeployer - 🇺🇸 English
-
 <a name="english"></a>
 
-**A lightweight, bilingual GUI for Firebase deploys — because you deserve better than batch files.**
+# gFirebaseDeployer - 🇺🇸 English
+**A lightweight, bilingual GUI for Firebase deploys — because you deserve better than command lines.**
 
 ---
 
@@ -54,9 +53,9 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 
 - **📁 Multiple profiles for multiple Firebase projects**  
   Manage all your Firebase projects from a single dropdown/text field:  
-  - If you type a new name, a brand‑new profile is created automatically.  
+  - If you type a new name, a brand‑new profile can be created and then saved.  
   - If you select an existing one, it loads the active profile with its saved folder, flags, and targets.  
-  Each profile is stored per‑user in `%AppData%\gFirebaseDeployer`, so your settings are safe and isolated.
+  - Each profile is stored per‑user in `%AppData%\gFirebaseDeployer`, so your settings are safe and isolated.
 
 - **🎯 Flexible deploy targets**  
   Choose exactly what to deploy:  
@@ -72,14 +71,16 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
   If you pick **all**, it overrides the others. Otherwise, you can target specific services.
 
 - **🧳 Portable single‑file executable**  
-  No installer required. Just drop the `.exe` anywhere and run. Optionally, you can build it with an installer if you prefer.
+  - No installer required. Just drop the small 700k-sized `.exe` anywhere and run.
+  - Optionally, you can download and use the installer version.  Check below.
 
 - **🌍 Bilingual & Smart UI**  
-  Switch languages (English & Español) on the fly — the UI updates instantly, no restart needed.  
-  The interface also adapts intelligently to your workflow: dropdowns auto‑resize to fit content, deploy buttons animate while working, and validations prevent invalid actions. Combined with logic checks (like detecting if Firebase CLI is installed), this ensures a robust and safe experience.
+  - Switch languages (English & Español) on the fly — the UI updates instantly, no restart needed.  
+  - The interface also adapts intelligently to your workflow: dropdowns auto‑resize to fit content, deploy buttons animate while working, and validations prevent invalid actions. Combined with logic checks (like detecting if Firebase CLI is installed), this ensures a robust and safe experience.
 
 - **🛡️ Privacy & Security by design**  
-  The app never reads or requests Firebase credentials, nor does it send or receive data over the internet. All commands are executed locally through a silent Windows terminal, exactly as if you typed them yourself. For extra peace of mind, the app can even be manually blocked by a firewall without affecting its functionality.
+  - The app never reads or requests Firebase credentials, nor does it send or receive data over the internet. All commands are executed locally through a silent Windows terminal, exactly as if you typed them yourself.
+  - For extra peace of mind, the app can even be manually blocked by a firewall without affecting its functionality.
 
 - **🪟 Optional startup launch**  
   Enable auto‑start with Windows for those who live and breathe Firebase.
@@ -103,7 +104,7 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 ## 🛠️ Requirements
 
 - Windows 10 or later  
-- [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (if using the lightweight version)
+- [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) 
 
 [⬆️ Go UP](#index--índice)
 
@@ -111,14 +112,18 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 
 ## 📦 Download
 
-> 🧩 Latest release:  
-> ✨ Version: `v1.0.0`  
-> 📅 Release date: `YYYY-MM-DD`  
-> 📁 File size: `828 KB`  
-> 🔗 [Download EXE](#)  
-> 🔗 [Installer (optional)](#)
+🧩 Latest release: `v1.0.0`  
+📅 Release date: `2025-10-25`  
 
-> _Fill in the links and release info above when ready._
+**WITH INSTALLER** (recommended)
+The installer will look for _.NET Desktop Runtimes_ on your computer.  If not found, it will download and deploy from Microsoft itself over the internet; all process is automatic.
+> 📁 File size: `815 KB`  
+> 🔗 [Download](#)  
+
+> **PORTABLE**
+It requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to be installed.
+> 📁 File size: `114 KB`  
+> 🔗 [Download](#)
 
 [⬆️ Go UP](#index--índice)
 
@@ -132,11 +137,10 @@ Found a bug, have a feature request, or just want to share feedback?
 [⬆️ Go UP](#index--índice)
 
 
-# gFirebaseDeployer - 🇦🇷 Español
-
 <a name="espanol"></a>
 
-**Una GUI liviana y bilingüe para deploys de Firebase — porque te merecés algo mejor que andar peleándote con batch files.**
+# gFirebaseDeployer - 🇦🇷 Español
+**Una GUI liviana y bilingüe para deploys de Firebase — porque te merecés mejor que líneas de comandos.**
 
 ---
 
@@ -152,7 +156,7 @@ Found a bug, have a feature request, or just want to share feedback?
 ## 👨‍💻 Acerca de & Funcionalidades
 
 gFirebaseDeployer es una app de escritorio para Windows, open source y portable (un solo archivo `.exe`), que simplifica el flujo de deploys en Firebase para quienes ya están cansados de lidiar con comandos de terminal, scripts `.bat` y flags copiados de memoria.  
-Tengas un proyecto o diez, esta herramienta te da una interfaz limpia e intuitiva para lanzar deploys con confianza — y sin fricción.
+Tengas un proyecto o diez, esta herramienta te da una interfaz limpia e intuitiva para lanzar deploys con confianza y practicidad.
 
 Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una experiencia nativa en Windows.
 
@@ -214,7 +218,7 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 ## 🛠️ Requisitos
 
 - Windows 10 o superior  
-- [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (si usás la versión liviana)
+-  (si usás la versión liviana)
 
 [⬆️ Volver arriba](#index--índice)
 
@@ -222,14 +226,18 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 
 ## 📦 Descarga
 
-> 🧩 Última versión:  
-> ✨ Versión: `v1.0.0`  
-> 📅 Fecha de release: `YYYY-MM-DD`  
-> 📁 Tamaño del archivo: `828 KB`  
-> 🔗 [Descargar EXE](#)  
-> 🔗 [Instalador (opcional)](#)
+🧩 Última versión: `v1.0.0` 
+📅 Fecha de release: `2025-10-25`  
 
-> _Completá los links y la info de release cuando esté lista._
+**CON INSTALADOR** (recomendado)
+El instalador buscará _.NET Desktop Runtimes_ instalado en tu PC.  Si no lo encuentra, activará la descarga desde el sitio de Microsoft; todo el proceso es automático.
+> 📁 Tamaño del archivo: `828 KB`  
+> 🔗 [Descargar](#)
+
+**PORTABLE**
+Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) instalado.
+> 📁 Tamaño del archivo: `114 KB`  
+> 🔗 [Descargar](#)
 
 [⬆️ Volver arriba](#index--índice)
 
