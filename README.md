@@ -118,8 +118,7 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 📅 Release date: `2025-10-25`  
 
 **WITH INSTALLER** (recommended)<br>
-The installer will look for _.NET Desktop Runtimes_ on your computer.<br>
-If not found, it will download and deploy from Microsoft itself over the internet; all process is automatic.
+The installer will look for _.NET Desktop Runtimes 9.0_ on your computer: if not found, installer will download and deploy runtimes from Microsoft over the internet; all process is automatic.
 > 📁 File size: `815 KB`  
 > 🔗 [Download](#https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_x64_installer.msi)  
 
