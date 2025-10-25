@@ -1,6 +1,5 @@
-# IF YOU'RE READING THIS, THEN I'M STILL WORKING IN PUBLISHING THE FILES
-## GITHUB IS MALFUNCTIONING AND I CANNOT PUT THIS TO PRIVATE.
-### Give me an hour or so and it will all be here.
+# ALMOST THERE...
+## Finishing touches
 
 ------
 
@@ -119,14 +118,14 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 The installer will look for _.NET Desktop Runtimes_ on your computer.<br>
 If not found, it will download and deploy from Microsoft itself over the internet; all process is automatic.
 > 📁 File size: `815 KB`  
-> 🔗 [Download](#)  
+> 🔗 [Download](#https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_x64_installer.msi)  
 
 <br>
 
 **PORTABLE**<br>
 Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to be installed.
 > 📁 File size: `114 KB`  
-> 🔗 [Download](#)
+> 🔗 [Download](#https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_portable.zip)
 
 [⬆️ Go UP](#index--índice)
 
@@ -240,12 +239,12 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 **CON INSTALADOR** (recomendado)<br>
 El instalador buscará _.NET Desktop Runtimes_ instalado en tu PC.  Si no lo encuentra, activará la descarga desde el sitio de Microsoft; todo el proceso es automático.
 > 📁 Tamaño del archivo: `828 KB`  
-> 🔗 [Descargar](#)
+> 🔗 [Descargar](#https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_x64_installer.msi)
 
 **PORTABLE**<br>
 Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) instalado.
 > 📁 Tamaño del archivo: `114 KB`  
-> 🔗 [Descargar](#)
+> 🔗 [Descargar](#https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_portable.zip)
 
 [⬆️ Volver arriba](#index--índice)
 
