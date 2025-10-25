@@ -6,18 +6,18 @@
 ## INDEX / ÍNDICE
 
 ### 🇺🇸 English<br>
-- [Intro](#english)
-- [About & Features](#about-features)
-- [Requirements](#requirements)
-- **[Download](#download)**
-- [Bug Reporting & Feedback](#bug-reporting-feedback)
+- [Intro](#intro_en)
+- [About & Features](#about_en)
+- [Requirements](#require_en)
+- **[Download](#download_en)**
+- [Bug Reporting & Feedback](#bug_en)
 
 ### 🇦🇷 Español<br>
-- [Introducción](#espanol)
-- [Acerca de & Funcionalidades](#acerca-de-funcionalidades)
-- [Requisitos](#requisitos)
-- **[Descargar](#descarga)**
-- [Reporte de bugs & Feedback](#reporte-de-bugs-feedback-es)
+- [Introducción](#intro_es)
+- [Acerca de & Funcionalidades](#about_es)
+- [Requisitos](#require_es)
+- **[Descargar](#download_es)**
+- [Reporte de bugs & Feedback](#bug_es)
 
 ---
 
@@ -30,13 +30,14 @@
 
 ## 🧭 Index
 
-- 👨‍💻 [About & Features](#about--features)
-- 🛠️ [Requirements](#requirements)
-- 📦 [Download](#download)
-- 🐞 [Bug Reporting & Feedback](#bug-reporting--feedback)
+- 👨‍💻 [About & Features](#about_en)
+- 🛠️ [Requirements](#require_en)
+- 📦 [Download](#download_en)
+- 🐞 [Bug Reporting & Feedback](#bug_end)
 
 ---
 
+<a name="about_en"></a>
 ## 👨‍💻 About & Features
 
 gFirebaseDeployer is an open‑source, single‑file Windows desktop app that simplifies the Firebase deployment workflow for developers who are tired of juggling terminal commands, `.bat` scripts, and copy‑pasted flags. Whether you're managing one project or ten, this tool gives you a clean, intuitive interface to launch deploys with confidence — and zero friction.
@@ -100,6 +101,7 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 
 ---
 
+<a name="require_en"></a>
 ## 🛠️ Requirements
 
 - Windows 10 or later  
@@ -109,6 +111,7 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 
 ---
 
+<a name="download_en"></a>
 ## 📦 Download
 
 🧩 Latest release: `v1.0.0`  
@@ -131,6 +134,7 @@ Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/do
 
 ---
 
+<a name="bug_en"></a>
 ## 🐞 Bug Reporting & Feedback
 
 Found a bug, have a feature request, or just want to share feedback?  
