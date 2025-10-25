@@ -7,17 +7,17 @@
 
 ### 🇺🇸 English<br>
 - [Intro](#english)
-- [About & Features](#about--features)
+- [About & Features](#about-features)
 - [Requirements](#requirements)
 - **[Download](#download)**
-- [Bug Reporting & Feedback](#bug-reporting--feedback)
+- [Bug Reporting & Feedback](#bug-reporting-feedback)
 
 ### 🇦🇷 Español<br>
 - [Introducción](#espanol)
-- [Acerca de & Funcionalidades](#acerca-de--funcionalidades)
+- [Acerca de & Funcionalidades](#acerca-de-funcionalidades)
 - [Requisitos](#requisitos)
 - **[Descargar](#descarga)**
-- [Reporte de bugs & Feedback](#reporte-de-bugs--feedback-es)
+- [Reporte de bugs & Feedback](#reporte-de-bugs-feedback-es)
 
 ---
 
