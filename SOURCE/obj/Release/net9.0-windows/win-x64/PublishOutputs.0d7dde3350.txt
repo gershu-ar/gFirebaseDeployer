@@ -1,5 +1,0 @@
-e:\@CODING\gFirebaseDeployer\bin\Release\net9.0-windows\win-x64\publish\gFirebaseDeployer.pdb
-e:\@CODING\gFirebaseDeployer\bin\Release\net9.0-windows\win-x64\publish\Resources\AppIcon.ico
-e:\@CODING\gFirebaseDeployer\bin\Release\net9.0-windows\win-x64\publish\Resources\Languages\en.json
-e:\@CODING\gFirebaseDeployer\bin\Release\net9.0-windows\win-x64\publish\Resources\Languages\es.json
-e:\@CODING\gFirebaseDeployer\bin\Release\net9.0-windows\win-x64\publish\gFirebaseDeployer.exe
