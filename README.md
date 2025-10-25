@@ -79,7 +79,7 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
   - The interface also adapts intelligently to your workflow: dropdowns auto‑resize to fit content, deploy buttons animate while working, and validations prevent invalid actions. Combined with logic checks (like detecting if Firebase CLI is installed), this ensures a robust and safe experience.
 
 - **🛡️ Privacy & Security by design**  
-  - The app never reads or requests Firebase credentials, nor does it send or receive data over the internet. All commands are executed locally through a silent Windows terminal, exactly as if you typed them yourself.
+  - The app **NEVER** reads or requests Firebase credentials, nor does it send or receive data over the internet. All commands are executed locally through a silent Windows terminal, exactly as if you typed them yourself.
   - For extra peace of mind, the app can even be manually blocked by a firewall without affecting its functionality.
 
 - **🪟 Optional startup launch**  
@@ -115,13 +115,16 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 🧩 Latest release: `v1.0.0`  
 📅 Release date: `2025-10-25`  
 
-**WITH INSTALLER** (recommended)
-The installer will look for _.NET Desktop Runtimes_ on your computer.  If not found, it will download and deploy from Microsoft itself over the internet; all process is automatic.
+**WITH INSTALLER** (recommended)<br>
+The installer will look for _.NET Desktop Runtimes_ on your computer.<br>
+If not found, it will download and deploy from Microsoft itself over the internet; all process is automatic.
 > 📁 File size: `815 KB`  
 > 🔗 [Download](#)  
 
-> **PORTABLE**
-It requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to be installed.
+<br>
+
+**PORTABLE**<br>
+Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to be installed.
 > 📁 File size: `114 KB`  
 > 🔗 [Download](#)
 
@@ -135,6 +138,9 @@ Found a bug, have a feature request, or just want to share feedback?
 👉 [Submit here](#) *(link to be added)* — one place for both support and feedback.
 
 [⬆️ Go UP](#index--índice)
+
+
+***************
 
 
 <a name="espanol"></a>
@@ -187,14 +193,16 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
   Si seleccionás **all**, pisa a los demás. Si no, podés apuntar a servicios específicos.
 
 - **🧳 Ejecutable portable en un solo archivo**  
-  No necesitás instalador. Copiá el `.exe` donde quieras y corrélo. Si preferís, también podés armar un instalador.
+  - No necesitás instalador. Copiá el `.exe` donde quieras y corrélo.
+  - Versión con instalador disponible.
 
 - **🌍 Interfaz bilingüe & UI inteligente**  
-  Cambiá de idioma (Inglés o Español) al vuelo — la interfaz se actualiza al instante, sin reiniciar.  
-  Además, la UI se adapta a tu forma de laburar: los dropdowns se ajustan al contenido, los botones de deploy animan mientras trabajan y las validaciones evitan acciones inválidas. Sumado a chequeos lógicos (como detectar si el CLI de Firebase está instalado), la experiencia es robusta y segura.
+  - Cambiá de idioma (Inglés o Español) al vuelo — la interfaz se actualiza al instante, sin reiniciar.  
+  - Además, la UI se adapta a tu forma de laburar: los dropdowns se ajustan al contenido, los botones de deploy animan mientras trabajan y las validaciones evitan acciones inválidas. Sumado a chequeos lógicos (como detectar si el CLI de Firebase está instalado), la experiencia es robusta y segura.
 
 - **🛡️ Privacidad & Seguridad por diseño**  
-  La app nunca lee ni pide credenciales de Firebase, ni manda ni recibe datos por internet. Todos los comandos se ejecutan localmente a través de una terminal de Windows en silencio, igual que si los escribieras vos. Para más tranquilidad, incluso podés bloquear la app con el firewall y va a seguir funcionando.
+  - La app **NO** lee ni pide credenciales de Firebase, ni manda ni recibe datos por internet. Todos los comandos se ejecutan localmente a través de una terminal de Windows en silencio, igual que si los escribieras vos.
+  - Para más tranquilidad, incluso podés bloquear la app con el firewall y va a seguir funcionando.
 
 - **🪟 Inicio automático opcional**  
   Activá el auto‑start con Windows si vivís desplegando Firebase.
@@ -218,7 +226,7 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 ## 🛠️ Requisitos
 
 - Windows 10 o superior  
--  (si usás la versión liviana)
+- [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 
 [⬆️ Volver arriba](#index--índice)
 
@@ -226,15 +234,15 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 
 ## 📦 Descarga
 
-🧩 Última versión: `v1.0.0` 
+🧩 Última versión: `v1.0.0` <br>
 📅 Fecha de release: `2025-10-25`  
 
-**CON INSTALADOR** (recomendado)
+**CON INSTALADOR** (recomendado)<br>
 El instalador buscará _.NET Desktop Runtimes_ instalado en tu PC.  Si no lo encuentra, activará la descarga desde el sitio de Microsoft; todo el proceso es automático.
 > 📁 Tamaño del archivo: `828 KB`  
 > 🔗 [Descargar](#)
 
-**PORTABLE**
+**PORTABLE**<br>
 Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) instalado.
 > 📁 Tamaño del archivo: `114 KB`  
 > 🔗 [Descargar](#)
