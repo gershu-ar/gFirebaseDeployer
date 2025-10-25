@@ -251,7 +251,7 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 **CON INSTALADOR** (recomendado)<br>
 El instalador buscará _.NET Desktop Runtimes_ instalado en tu PC.  Si no lo encuentra, activará la descarga desde el sitio de Microsoft; todo el proceso es automático.<br>
 📁 Tamaño del archivo: `828 KB`  <br>
-🔗 Descargar de GitHub or desde [Google Drive](https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_x64_installer.msi)<br>
+🔗 Descargar de GitHub or desde [Google Drive](https://drive.google.com/file/d/1fkiDtWWLKBWdBE-fZzZMxlKVlsdjntj9/view?usp=sharing)<br>
 
 **PORTABLE**<br>
 Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) instalado.<br>
