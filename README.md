@@ -138,13 +138,13 @@ Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/do
 ## 🐞 Bug Reporting & Feedback
 
 Found a bug, have a feature request, or just want to share feedback?  
-👉 [Submit here](#) *(link to be added)* — one place for both support and feedback.
+👉 [Submit here] *(link to be added, hold a few days for it, i'm busy =()* — one place for both support and feedback.
 
 Coded with ❤️ in 🇦🇷 Argentina<br>
 www.gershu.ar
 
 gFirebaseDeployer's source codes and compiled Windows executables are provided "as is".<br>
-
+No license, no copyright.
 
 [⬆️ Go UP](#index--índice)
 
@@ -267,12 +267,13 @@ Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/downl
 ## 🐞 Reporte de bugs & Feedback
 
 ¿Encontraste un bug, tenés una idea nueva o querés dejar feedback?  
-👉 [Mandalo acá](#) *(tengo que generar el form, aguantame unos días)* — un único lugar para soporte y comentarios.
+👉 [Mandalo acá] *(tengo que generar el form, aguantame unos días estoy complicadísimo estos días =()* — un único lugar para soporte y comentarios.
 
 Codeado con ❤️ en 🇦🇷 Argentina<br>
 www.gershu.ar
 
-gFirebaseDeployer's source codes and compiled Windows executables are provided "as is".<br>
+Nota: El código fuente y los archivos ejecutables de gFirebaseDeployer se proveen "tal cual".<br>
+No license, no copyright.
 
 [⬆️ Volver arriba](#index--índice)
 
