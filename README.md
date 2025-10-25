@@ -120,14 +120,14 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 **WITH INSTALLER** (recommended)<br>
 The installer will look for _.NET Desktop Runtimes 9.0_ on your computer: if not found, installer will download and deploy runtimes from Microsoft over the internet; all process is automatic.<br>
 📁 File size: `815 KB`  <br>
-🔗 [Download](https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_x64_installer.msi) <br>
+🔗 Download from GitHub or from [Google Drive](https://drive.google.com/file/d/1fkiDtWWLKBWdBE-fZzZMxlKVlsdjntj9/view?usp=sharing)<br>
 
 <br>
 
 **PORTABLE**<br>
 Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to be installed.<br>
 📁 File size: `114 KB`  <br>
-🔗 [Download](https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_portable.zip)<br>
+🔗 Download from GitHub or from [Google Drive](https://drive.google.com/file/d/18xBTmXjGPCfE1hn8EdKB92IB2gPVlol1/view?usp=sharing)<br>
 
 [⬆️ Go UP](#index--índice)
 
@@ -251,12 +251,12 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 **CON INSTALADOR** (recomendado)<br>
 El instalador buscará _.NET Desktop Runtimes_ instalado en tu PC.  Si no lo encuentra, activará la descarga desde el sitio de Microsoft; todo el proceso es automático.<br>
 📁 Tamaño del archivo: `828 KB`  <br>
-🔗 [Descargar](https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_x64_installer.msi)<br>
+🔗 Descargar de GitHub or desde [Google Drive](https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_x64_installer.msi)<br>
 
 **PORTABLE**<br>
 Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) instalado.<br>
 📁 Tamaño del archivo: `114 KB`  <br>
-🔗 [Descargar](https://raw.githubusercontent.com/gershu-ar/gFirebaseDeployer/main/gFirebaseDeployer_v10_portable.zip)<br>
+🔗 Descargar de GitHub or desde [Google Drive](https://drive.google.com/file/d/18xBTmXjGPCfE1hn8EdKB92IB2gPVlol1/view?usp=sharing)<br>
 
 [⬆️ Volver arriba](#index--índice)
 
