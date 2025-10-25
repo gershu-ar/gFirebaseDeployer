@@ -33,7 +33,7 @@
 - 👨‍💻 [About & Features](#about_en)
 - 🛠️ [Requirements](#require_en)
 - 📦 [Download](#download_en) (Windows 10/11)
-- 🐞 [Bug Reporting & Feedback](#bug_end)
+- 🐞 [Bug Reporting & Feedback](#bug_en)
 
 ---
 
@@ -168,7 +168,7 @@ gFirebaseDeployer's source codes and compiled Windows executables are provided "
 
 ---
 
-<a name="about_en"></a>
+<a name="about_es"></a>
 ## 👨‍💻 Acerca de & Funcionalidades
 
 gFirebaseDeployer es una app de escritorio para Windows, open source y portable (un solo archivo `.exe`), que simplifica el flujo de deploys en Firebase para quienes ya están cansados de lidiar con comandos de terminal, scripts `.bat` y flags copiados de memoria.  
