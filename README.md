@@ -31,10 +31,10 @@
 
 ## 🧭 Index
 
-- [👨‍💻 About & Features](#about--features)
-- [🛠️ Requirements](#requirements)
-- [📦 Download](#download)
-- [🐞 Bug Reporting & Feedback](#bug-reporting--feedback)
+- 👨‍💻 [About & Features](#about--features)
+- 🛠️ [Requirements](#requirements)
+- 📦 [Download](#download)
+- 🐞 [Bug Reporting & Feedback](#bug-reporting--feedback)
 
 ---
 
@@ -152,10 +152,10 @@ Found a bug, have a feature request, or just want to share feedback?
 
 ## 🧭 Índice
 
-- [👨‍💻 Acerca de & Funcionalidades](#acerca-de--funcionalidades)
-- [🛠️ Requisitos](#requisitos)
-- [📦 Descarga](#descarga)
-- [🐞 Reporte de bugs & Feedback](#reporte-de-bugs--feedback-es)
+- 👨‍💻 [Acerca de & Funcionalidades](#acerca-de--funcionalidades)
+- 🛠️ [Requisitos](#requisitos)
+- 📦 [Descarga](#descarga)
+- 🐞 [Reporte de bugs & Feedback](#reporte-de-bugs--feedback-es)
 
 ---
 
