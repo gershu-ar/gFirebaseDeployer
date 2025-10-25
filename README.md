@@ -9,14 +9,14 @@
 - [Intro](#intro_en)
 - [About & Features](#about_en)
 - [Requirements](#require_en)
-- **[Download](#download_en)**
+- **[Download](#download_en)** (Windows 10/11)
 - [Bug Reporting & Feedback](#bug_en)
 
 ### 🇦🇷 Español<br>
 - [Introducción](#intro_es)
 - [Acerca de & Funcionalidades](#about_es)
 - [Requisitos](#require_es)
-- **[Descargar](#download_es)**
+- **[Descargar](#download_es)** (Windows 10/11)
 - [Reporte de bugs & Feedback](#bug_es)
 
 ---
@@ -32,7 +32,7 @@
 
 - 👨‍💻 [About & Features](#about_en)
 - 🛠️ [Requirements](#require_en)
-- 📦 [Download](#download_en)
+- 📦 [Download](#download_en) (Windows 10/11)
 - 🐞 [Bug Reporting & Feedback](#bug_end)
 
 ---
@@ -112,7 +112,7 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 ---
 
 <a name="download_en"></a>
-## 📦 Download
+## 📦 Download (Windows 10/11)
 
 🧩 Latest release: `v1.0.0`  
 📅 Release date: `2025-10-25`  
@@ -140,6 +140,12 @@ Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/do
 Found a bug, have a feature request, or just want to share feedback?  
 👉 [Submit here](#) *(link to be added)* — one place for both support and feedback.
 
+Coded with ❤️ in 🇦🇷 Argentina<br>
+www.gershu.ar
+
+gFirebaseDeployer's source codes and compiled Windows executables are provided "as is".<br>
+
+
 [⬆️ Go UP](#index--índice)
 
 
@@ -155,13 +161,14 @@ Found a bug, have a feature request, or just want to share feedback?
 
 ## 🧭 Índice
 
-- 👨‍💻 [Acerca de & Funcionalidades](#acerca-de--funcionalidades)
-- 🛠️ [Requisitos](#requisitos)
-- 📦 [Descarga](#descarga)
-- 🐞 [Reporte de bugs & Feedback](#reporte-de-bugs--feedback-es)
+- 👨‍💻 [Acerca de & Funcionalidades](#about_es)
+- 🛠️ [Requisitos](#require_es)
+- 📦 [Descarga](#download_es) (Windows 10/11)
+- 🐞 [Reporte de bugs & Feedback](#bug_es)
 
 ---
 
+<a name="about_en"></a>
 ## 👨‍💻 Acerca de & Funcionalidades
 
 gFirebaseDeployer es una app de escritorio para Windows, open source y portable (un solo archivo `.exe`), que simplifica el flujo de deploys en Firebase para quienes ya están cansados de lidiar con comandos de terminal, scripts `.bat` y flags copiados de memoria.  
@@ -226,6 +233,7 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 
 ---
 
+<a name="require_es"></a>
 ## 🛠️ Requisitos
 
 - Windows 10 o superior  
@@ -235,7 +243,8 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 
 ---
 
-## 📦 Descarga
+<a name="download_es"></a>
+## 📦 Descarga (Windows 10/11)
 
 🧩 Última versión: `v1.0.0` <br>
 📅 Fecha de release: `2025-10-25`  
@@ -254,9 +263,17 @@ Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/downl
 
 ---
 
+<a name="bug_es"></a>
 ## 🐞 Reporte de bugs & Feedback
 
 ¿Encontraste un bug, tenés una idea nueva o querés dejar feedback?  
-👉 [Mandalo acá](#) *(link a agregar)* — un único lugar para soporte y comentarios.
+👉 [Mandalo acá](#) *(tengo que generar el form, aguantame unos días)* — un único lugar para soporte y comentarios.
+
+Codeado con ❤️ en 🇦🇷 Argentina<br>
+www.gershu.ar
+
+gFirebaseDeployer's source codes and compiled Windows executables are provided "as is".<br>
 
 [⬆️ Volver arriba](#index--índice)
+
+
