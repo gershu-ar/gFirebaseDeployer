@@ -1,0 +1,2 @@
+e:\@CODING\gFirebaseDeployer\obj\Release\net9.0-windows\win-x64\DroneLauncher.GeneratedMSBuildEditorConfig.editorconfig
+e:\@CODING\gFirebaseDeployer\obj\Release\net9.0-windows\win-x64\DroneLauncher.csproj.CoreCompileInputs.cache
