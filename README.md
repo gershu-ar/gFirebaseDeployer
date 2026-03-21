@@ -117,14 +117,14 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 **WITH INSTALLER** (recommended)<br>
 The installer will look for _.NET Desktop Runtimes 9.0_ on your computer: if not found, installer will download and deploy runtimes from Microsoft over the internet; all process is automatic.<br>
 📁 File size: `815 KB`  <br>
-🔗 Download from GitHub or from [Google Drive](https://drive.google.com/file/d/1fkiDtWWLKBWdBE-fZzZMxlKVlsdjntj9/view?usp=sharing)<br>
+🔗 Download from [Google Drive](https://drive.google.com/file/d/1wwqDElrRySaDiAGdUVjLBL4RDb0SMrVA/view?usp=sharing)<br>
 
 <br>
 
 **PORTABLE**<br>
 Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to be installed.<br>
 📁 File size: `114 KB`  <br>
-🔗 Download from GitHub or from [Google Drive](https://drive.google.com/file/d/18xBTmXjGPCfE1hn8EdKB92IB2gPVlol1/view?usp=sharing)<br>
+🔗 Download from [Google Drive](https://drive.google.com/file/d/1uUphr8KbKuvbEBa2gfZLZsiP7q7h0X_b/view?usp=sharing)<br>
 
 [⬆️ Go UP](#index--índice)
 
@@ -134,7 +134,7 @@ Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/do
 ## 🐞 Bug Reporting & Feedback
 
 Found a bug, have a feature request, or just want to share feedback?  
-👉 [Submit here] *(link to be added, hold a few days for it, i'm busy =()* — one place for both support and feedback.
+👉 [Submit here](https://github.com/gershu-ar/gFirebaseDeployer/issues)
 
 Coded with ❤️ in 🇦🇷 Argentina<br>
 www.gershu.ar
@@ -248,12 +248,12 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 **CON INSTALADOR** (recomendado)<br>
 El instalador buscará _.NET Desktop Runtimes_ instalado en tu PC.  Si no lo encuentra, activará la descarga desde el sitio de Microsoft; todo el proceso es automático.<br>
 📁 Tamaño del archivo: `828 KB`  <br>
-🔗 Descargar de GitHub or desde [Google Drive](https://drive.google.com/file/d/1fkiDtWWLKBWdBE-fZzZMxlKVlsdjntj9/view?usp=sharing)<br>
+🔗 Descargar de [Google Drive](https://drive.google.com/file/d/1wwqDElrRySaDiAGdUVjLBL4RDb0SMrVA/view?usp=drive_link)<br>
 
 **PORTABLE**<br>
 Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) instalado.<br>
 📁 Tamaño del archivo: `114 KB`  <br>
-🔗 Descargar de GitHub or desde [Google Drive](https://drive.google.com/file/d/18xBTmXjGPCfE1hn8EdKB92IB2gPVlol1/view?usp=sharing)<br>
+🔗 Descargar desde [Google Drive](https://drive.google.com/file/d/1uUphr8KbKuvbEBa2gfZLZsiP7q7h0X_b/view?usp=sharing)<br>
 
 [⬆️ Volver arriba](#index--índice)
 
@@ -263,7 +263,7 @@ Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/downl
 ## 🐞 Reporte de bugs & Feedback
 
 ¿Encontraste un bug, tenés una idea nueva o querés dejar feedback?  
-👉 [Mandalo acá] *(tengo que generar el form, aguantame unos días estoy complicadísimo estos días =()* — un único lugar para soporte y comentarios.
+👉 [Mandalo acá](https://github.com/gershu-ar/gFirebaseDeployer/issues)
 
 Codeado con ❤️ en 🇦🇷 Argentina<br>
 www.gershu.ar
