@@ -111,20 +111,20 @@ Coded in **C#**, built with **.NET 9.0** using **WinForms** for a native Windows
 <a name="download_en"></a>
 ## 📦 Download (Windows 10/11)
 
-🧩 Latest release: `v1.0.0`  
+🧩 Latest release: `v1.0`  
 📅 Release date: `2025-10-25`  
 
 **WITH INSTALLER** (recommended)<br>
 The installer will look for _.NET Desktop Runtimes 9.0_ on your computer: if not found, installer will download and deploy runtimes from Microsoft over the internet; all process is automatic.<br>
 📁 File size: `815 KB`  <br>
-🔗 Download from [Google Drive](https://drive.google.com/file/d/1wwqDElrRySaDiAGdUVjLBL4RDb0SMrVA/view?usp=sharing)<br>
+🔗 Download from [Releases](github.com/gershu-ar/gFirebaseDeployer/releases/)<br>
 
 <br>
 
 **PORTABLE**<br>
 Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) to be installed.<br>
 📁 File size: `114 KB`  <br>
-🔗 Download from [Google Drive](https://drive.google.com/file/d/1uUphr8KbKuvbEBa2gfZLZsiP7q7h0X_b/view?usp=sharing)<br>
+🔗 Download from [Releases](github.com/gershu-ar/gFirebaseDeployer/releases/)<br>
 
 [⬆️ Go UP](#index--índice)
 
@@ -242,18 +242,18 @@ Programada en **C#**, construida con **.NET 9.0** usando **WinForms** para una e
 <a name="download_es"></a>
 ## 📦 Descarga (Windows 10/11)
 
-🧩 Última versión: `v1.0.0` <br>
+🧩 Última versión: `v1.0` <br>
 📅 Fecha de release: `2025-10-25`  
 
 **CON INSTALADOR** (recomendado)<br>
 El instalador buscará _.NET Desktop Runtimes_ instalado en tu PC.  Si no lo encuentra, activará la descarga desde el sitio de Microsoft; todo el proceso es automático.<br>
 📁 Tamaño del archivo: `828 KB`  <br>
-🔗 Descargar de [Google Drive](https://drive.google.com/file/d/1wwqDElrRySaDiAGdUVjLBL4RDb0SMrVA/view?usp=drive_link)<br>
+🔗 Descargar de [Versiones](github.com/gershu-ar/gFirebaseDeployer/releases/)<br>
 
 **PORTABLE**<br>
 Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) instalado.<br>
 📁 Tamaño del archivo: `114 KB`  <br>
-🔗 Descargar desde [Google Drive](https://drive.google.com/file/d/1uUphr8KbKuvbEBa2gfZLZsiP7q7h0X_b/view?usp=sharing)<br>
+🔗 Descargar de [Versiones](github.com/gershu-ar/gFirebaseDeployer/releases/)<br>
 
 [⬆️ Volver arriba](#index--índice)
 
