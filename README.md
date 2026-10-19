@@ -143,7 +143,8 @@ Requires [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/do
 ## 🐞 Bug Reporting & Feedback
 
 Found a bug, have a feature request, or just want to share feedback?  
-👉 [Submit here](https://github.com/gershu-ar/gFirebaseDeployer/issues)
+👉 ~~Submit it here~~ (The app has been archived/discontinued.  If you require to report/ask something related to the app, [start a new discussion here](https://github.com/gershu-ar/gershu-ar/discussions))
+
 
 Coded with ❤️ in 🇦🇷 Argentina<br>
 www.gershu.ar
@@ -272,7 +273,7 @@ Requiere tener [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/en-us/downl
 ## 🐞 Reporte de bugs & Feedback
 
 ¿Encontraste un bug, tenés una idea nueva o querés dejar feedback?  
-👉 [Mandalo acá](https://github.com/gershu-ar/gFirebaseDeployer/issues)
+👉 ~~Mandalo acá~~ (La app ha sido archivada/discontinuada.  De requerir informar/consultar algo relacionado a la app, [iniciar una discusión aquí](https://github.com/gershu-ar/gershu-ar/discussions))
 
 Codeado con ❤️ en 🇦🇷 Argentina<br>
 www.gershu.ar
