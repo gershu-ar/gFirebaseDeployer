@@ -3,6 +3,10 @@
 ## INDEX / ÍNDICE
 
 ### 🇺🇸 English<br>
+
+![Status](https://img.shields.io/badge/STATUS-PROYECT_ARCHIVED-D9383A?style=for-the-badge&logo=github)
+![Maintenance](https://img.shields.io/badge/MAINTENANCE-DISCONTINUED-D9383A?style=for-the-badge)
+
 - [Intro](#intro_en)
 - [About & Features](#about_en)
 - [Requirements](#require_en)
@@ -10,6 +14,11 @@
 - [Bug Reporting & Feedback](#bug_en)
 
 ### 🇦🇷 Español<br>
+
+![Estado](https://img.shields.io/badge/ESTADO-PROYECTO_ARCHIVADO-D9383A?style=for-the-badge&logo=github)
+![Mantenimiento](https://img.shields.io/badge/MANTENIMIENTO-DISCONTINUADO-D9383A?style=for-the-badge)
+
+
 - [Introducción](#intro_es)
 - [Acerca de & Funcionalidades](#about_es)
 - [Requisitos](#require_es)
